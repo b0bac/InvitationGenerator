@@ -1,0 +1,2 @@
+# InvitationGenerator
+基于Python3.10和Tkinter写的一个用于生成邀请函的图形界面小工具
