@@ -16,3 +16,6 @@ python3 InvitationGenerator.py
 ```
 图形化界面，按照要求填写相关必须的输入项，点击开始生成即可。
 ![20230322203251](https://user-images.githubusercontent.com/11972644/226906927-1744d265-0c6e-47e7-89ba-a840f3a0b29c.jpg)
+
+## 目前疑似存在的问题：
++ 1、好像字体颜色都是白的，尚未经过充分测试。
