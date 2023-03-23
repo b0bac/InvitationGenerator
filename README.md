@@ -9,7 +9,10 @@
 ```bash
 brew install python-tk@3.10
 ```
-
++ PIL
+```bash
+python3 -m pip install pillow -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
 ## 使用方式
 ```bash
 python3 InvitationGenerator.py
