@@ -15,7 +15,14 @@ brew install python-tk@3.10
 python3 InvitationGenerator.py
 ```
 图形化界面，按照要求填写相关必须的输入项，点击开始生成即可。
-![20230322203251](https://user-images.githubusercontent.com/11972644/226906927-1744d265-0c6e-47e7-89ba-a840f3a0b29c.jpg)
+![image](https://user-images.githubusercontent.com/11972644/227088807-70fbabfb-92d4-4cdc-b1ea-1adf5d6f32fc.png)
+![image](https://user-images.githubusercontent.com/11972644/227088892-3e3606f9-6317-4639-833b-266a5cba712c.png)
+![image](https://user-images.githubusercontent.com/11972644/227088944-7341e16a-48a9-41f7-a6d5-81ae2e951ea7.png)
+![image](https://user-images.githubusercontent.com/11972644/227089035-98f891ab-70a1-41e7-9707-1cbfd24e7257.png)
+![李四](https://user-images.githubusercontent.com/11972644/227089091-9ff747d0-158d-4d18-82ea-06b7485ccc6b.jpg)
 
-## 目前疑似存在的问题：
-+ 1、好像字体颜色都是白的，尚未经过充分测试。
+
+## 优化
++ 版本v1.1
+  + 优化各类文件选择操作，从输入文件路径优化成文件管理器选择文件
+  + 颜色从输入RGB值优化成为颜色选择
